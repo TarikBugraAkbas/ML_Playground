@@ -6,8 +6,13 @@ This project implements **Linear Regression** to predict energy consumption base
 - **From Scratch Implementation** by creating Gradient Descent and Cost Functions from scratch
 - **Scikit-Learn Implementation** using Scikit-Learn model Linear Regression
 
+
+### Dataset Attribution
+The dataset is sourced from [Energy Consumption Dataset - Linear Regression](https://www.kaggle.com/datasets/govindaramsriram/energy-consumption-dataset-linear-regression) by Govindaram Sriram and is licensed under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/). 
+If you wish to use this dataset, please download it directly from Kaggle using the link above.
+
 ## Dataset
-The dataset is sourced from **Kaggle**, containing features such as:
+The dataset contains features such as:
 - Square Footage
 - Number of Occupants
 - Appliances Used
