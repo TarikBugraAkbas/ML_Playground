@@ -17,14 +17,9 @@ The dataset is sourced from **Kaggle**, containing features such as:
 
 **Target Variable:** `Energy Consumption`
 
-## Results & Comparison
-### Scikit-Learn vs. From-Scratch Performance
-
-
-Both implementations yield similar **high accuracy**.
-
 ## Visualization
-Below is a **comparison of actual vs predicted energy consumption**:
-
-![Residuals Comparison](Predict-Energy-Consumption-Linear-Regression/images/Figure_1.png)
+Below is a **Residuals Plot**, highlighting the difference between actual data and predicted datas.
+Green represents **Scikit** predictions
+Blue represents **From_Scratch** predictions
+![Residuals Comparison](Predict-Energy-Consumption-Linear-Regression/Figure_1.png)
 
