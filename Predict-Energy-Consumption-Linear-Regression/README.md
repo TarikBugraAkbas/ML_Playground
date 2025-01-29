@@ -26,4 +26,5 @@ Both implementations yield similar **high accuracy**.
 ## Visualization
 Below is a **comparison of actual vs predicted energy consumption**:
 
-![Prediction Results](images/result.png)
+![Residuals Comparison](Predict-Energy-Consumption-Linear-Regression/images/Figure_1.png)
+
