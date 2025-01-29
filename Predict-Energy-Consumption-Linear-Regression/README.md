@@ -21,5 +21,7 @@ The dataset is sourced from **Kaggle**, containing features such as:
 Below is a **Residuals Plot**, highlighting the difference between actual data and predicted datas.
 Green represents **Scikit** predictions
 Blue represents **From_Scratch** predictions
-![Residuals Comparison](Predict-Energy-Consumption-Linear-Regression/Figure_1.png)
+![Residuals Comparison](Figure_1.png)
+
+
 
