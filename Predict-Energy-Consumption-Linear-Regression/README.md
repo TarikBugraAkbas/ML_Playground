@@ -18,9 +18,14 @@ The dataset is sourced from **Kaggle**, containing features such as:
 **Target Variable:** `Energy Consumption`
 
 ## Visualization
-Below is a **Residuals Plot**, highlighting the difference between actual data and predicted datas.
-Green represents **Scikit** predictions
-Blue represents **From_Scratch** predictions
+
+The **Residuals Plot** below highlights the difference between the actual data and the predicted values for both implementations:
+
+- **Green dots**: Represent predictions from the **Scikit-Learn implementation**.
+- **Blue dots**: Represent predictions from the **From-Scratch implementation**.
+
+This comparison demonstrates the accuracy and consistency of both approaches in predicting energy consumption.
+
 ![Residuals Comparison](Figure_1.png)
 
 
